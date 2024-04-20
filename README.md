@@ -1,20 +1,24 @@
 # desafio-frontend-lab-app
 
-O objetivo deste desafio é criar uma aplicação que liste as infraestruturas de uma escola, permitindo a classificação de laboratórios ou salas de aulas como funcionais e não funcionais, Ao final, a aplicação deve cadastrar / actualizar o total de laboratórios e salas de aulas funcionais e não funcionais.
-
-## Project Setup
-
-```sh
+## Project setup
+```
 npm install
 ```
-### Compile and Hot-Reload for Development
 
-```sh
-npm run dev
+### Compiles and hot-reloads for development
+```
+npm run serve
 ```
 
-### Type-Check, Compile and Minify for Production
-
-```sh
+### Compiles and minifies for production
+```
 npm run build
 ```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
